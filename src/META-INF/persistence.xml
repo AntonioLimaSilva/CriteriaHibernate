@@ -6,8 +6,8 @@
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<properties>
 			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/pedido" />
-			<property name="javax.persistence.jdbc.user" value="user" />
-			<property name="javax.persistence.jdbc.password" value="*****" />
+			<property name="javax.persistence.jdbc.user" value="username" />
+			<property name="javax.persistence.jdbc.password" value="******" />
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
 
 			<property name="hibernate.show_sql" value="true" />
